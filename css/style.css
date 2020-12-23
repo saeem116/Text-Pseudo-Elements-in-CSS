@@ -34,13 +34,3 @@ p.first-child::first-line{
 
 
 
-@media(max-width:768px){
-  .child_div{
-    background-image:
-linear-gradient(rgba(255,255,255,0.9),rgba(255,255,255,0.9)),
-url(../image/left_planetFamilyImage.png);
-
-
-  }
-
-}
